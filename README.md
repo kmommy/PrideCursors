@@ -14,5 +14,5 @@ I'll add more flags soon
 
 **4- clic Pointers, and select "rainbowpridecursors", then apply then ok**
 ## Credits: 
-
-(AspecsGaming)[https://itch.io/profile/aspecsgaming] I used their asperite file as a base.
+[
+AspecsGaming](https://itch.io/profile/aspecsgaming) I used their asperite file as a base.
